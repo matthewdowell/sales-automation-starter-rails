@@ -53,3 +53,5 @@ This is a Ruby on Rails application.
 - An error occurred while installing pg
 
   Please install `libpq-dev` package if you are on Linux. It is a native dependency required for `pg` gem.
+
+  --
